@@ -28,10 +28,9 @@ content:
   email: cpham2@conncoll.edu
   phone: (+1) 860-514-0933
   address:
-    street: 270 Mohegan Avenue
-    city: New London
-    region: CT
-    postcode: '06320'
+    city: Boston
+    region: MA
+    postcode: '02110'
     country: United States
     country_code: US
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
