@@ -25,7 +25,8 @@ links:
 
 summary: 
 
-tags: [Emerging Markets, Macroeconomics, Markov-Switching]
+tags: 
+- Macro
 
 title: Emerging Markets Inflation Outlook and Regime Shifts in Global Market Sentiment
 

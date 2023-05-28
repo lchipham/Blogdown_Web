@@ -24,7 +24,8 @@ links:
 
 summary: 
 
-tags: [Labor Economics, Firm Size, Wages]
+tags: 
+- Micro
 
 title: Firm Size - Wage Effect
 url_code: ""

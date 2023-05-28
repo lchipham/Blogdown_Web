@@ -25,14 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: cpham2@conncoll.edu
-  phone: (+1) 860-514-0933
-  address:
-    city: Boston
-    region: MA
-    postcode: '02110'
-    country: United States
-    country_code: US
+  #phone: (+1) 860-514-0933
+  #address:
+  #  city: Boston
+  #  region: MA
+  #  postcode: '02110'
+  #  country: United States
+  #  country_code: US
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #appointment_url: 'https://calendly.com'
   #contact_links:
@@ -46,5 +45,5 @@ content:
   #    link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---

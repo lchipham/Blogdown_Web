@@ -18,17 +18,21 @@ interests:
 #organizations:
 #- name: Federal Reserve Bank of Boston
 #  url: https://www.bostonfed.org
-role: Rising Senior
+role: Boston, MA
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:cpham2@conncoll.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/lchipham
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/linhchipham269/
+- icon: phone
+  icon_pack: fas
+  link: tel:+18605140933
+
 superuser: true
 title: Lindsey (Chi)
 ---

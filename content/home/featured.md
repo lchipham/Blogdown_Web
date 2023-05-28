@@ -17,13 +17,13 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Filter on criteria
-  filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
+  #count: 0
+  filter_default: 0
+  filter_button:
+    - name: Macro
+      tag: Macro
+    - name: Micro
+      tag: Micro
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -33,5 +33,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 5
+  columns: '1'
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: true
 ---
