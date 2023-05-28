@@ -15,11 +15,11 @@ links:
   name: Github
   url: https://github.com/lchipham/Data-Science-Projects/tree/main/Default%20Probability%20Prediction%20-%20Home%20Equity%20Loan
 
-summary: Automated customers' default probability calculator & Bank loan decision generator. A Machine Learning model deployment app.
+summary: Automated customers' default probability calculator & Bank loan decision generator. A ML model deployment app.
 
 tags:
 - R
-title: Default Risk Calculator - Home Equity Loan
+title: Home Equity Loan Default Risk Calculator
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -28,4 +28,4 @@ url_video: ""
 
 This web app functions like a calculator, taking new customers' info (variables/parameters of final Machine Learning model: DEBTINC, DELINQ, DEROG, CLAGE, LOAN, NINQ, CLNO) as input and outputting said customer's mortgage default probability.
 
-Based on the quantile in which this probability is, as well as the (adjustable) loan acceptance rate of the bank, the app ultimately outputs the bank's decision on whether to lend to this new customer. If the customer's default probability falls in a higher percentile than the acceptance rate, they are not qualified for loan. On the other hand, if the default probability lies in the acceptable range, the customer is qualified for loan.
+Based on the quantile in which this probability is, as well as the (adjustable) loan acceptance rate of the bank, the app  outputs bank's decision on whether to lend to this new customer. If the customer's default probability falls in a higher percentile than the acceptance rate, they are not qualified for loan. 

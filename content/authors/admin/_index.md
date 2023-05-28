@@ -1,5 +1,5 @@
 ---
-bio: My research interests include macro-finance, international trade & exchange rates, monetary policy and implications on financial stability.
+bio: My research interests include macro-finance, international trade & exchange rates, monetary policy and emerging markets.
 education:
   courses:
   - course: B.A in Economics & Data Science 
@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/linhchipham269/
 superuser: true
-title: Linh-Chi
+title: Lindsey (Chi)
 ---
 
 Welcome to my personal creative space!

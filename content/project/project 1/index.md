@@ -18,7 +18,6 @@ links:
 summary: Bond Risk Premium forecasts & accompanying Bond Valuation command line interface.
 
 tags:
-- Dashboard
 - Python
 title: Excess Bond Returns Forecasts & Valuation
 url_code: ""
@@ -27,4 +26,4 @@ url_slides: ""
 url_video: ""
 ---
 Excess bond returns is a proxy for realized risk premium of a long-term bond. Forecasting excess bond returns is crucial for optimizing strategic asset allocation decisions, 
-managing risks associated with bond holdings, developing fixed
+managing risks associated with bond holdings, developing fixed income trading strategies, and conducting relative value analysis.

@@ -18,7 +18,6 @@ links:
 summary: Insights on market sentiments during current high inflationary period  from exploration of Tweets from general public and 26 US news accounts.
 
 tags:
-- R
 - Dashboard
 title: Inflation Tweets & Market Sentiments
 url_code: ""

@@ -15,12 +15,11 @@ links:
   name: Github
   url: https://github.com/lchipham/Data-Science-Projects/tree/main/Mechanics%20Behind%20US%20Inflation%20%26%20Fed's%20Soft-Landing%20Policy%20-%20Spring'22
 
-summary: A multi-layer, interactive dashboard reflecting the components and time trends of US unemployment claims.
+summary: Components and time trends of continued unemployment claims in CT.
 
 tags:
-- R
 - Dashboard
-title: Interactive Data Visualization - Continued UE Claims in CT
+title: Stream chart - Continued UE Claims 20-21
 url_code: ""
 url_pdf: ""
 url_slides: ""
