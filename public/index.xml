@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linh-Chi Pham</title>
-    <link>https://lchipham.netlify.app/</link>
-      <atom:link href="https://lchipham.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <description>Linh-Chi Pham</description>
+    <title>Lindsey Pham</title>
+    <link>https://lndzphm.netlify.app/</link>
+      <atom:link href="https://lndzphm.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lindsey Pham</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lchipham.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Linh-Chi Pham</title>
-      <link>https://lchipham.netlify.app/</link>
+      <url>https://lndzphm.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lindsey Pham</title>
+      <link>https://lndzphm.netlify.app/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://lchipham.netlify.app/talk/example-talk/</link>
+      <link>https://lndzphm.netlify.app/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/talk/example-talk/</guid>
+      <guid>https://lndzphm.netlify.app/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,25 +34,25 @@
     
     <item>
       <title>Emerging Markets Inflation Outlook and Regime Shifts in Global Market Sentiment</title>
-      <link>https://lchipham.netlify.app/publication/example-1/</link>
+      <link>https://lndzphm.netlify.app/publication/example-1/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/publication/example-1/</guid>
+      <guid>https://lndzphm.netlify.app/publication/example-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firm Size - Wage Effect</title>
-      <link>https://lchipham.netlify.app/publication/example-2/</link>
+      <link>https://lndzphm.netlify.app/publication/example-2/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/publication/example-2/</guid>
+      <guid>https://lndzphm.netlify.app/publication/example-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excess Bond Returns Forecasts &amp; Valuation</title>
-      <link>https://lchipham.netlify.app/project/project-1/</link>
+      <link>https://lndzphm.netlify.app/project/project-1/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/project/project-1/</guid>
+      <guid>https://lndzphm.netlify.app/project/project-1/</guid>
       <description>&lt;p&gt;Excess bond returns is a proxy for realized risk premium of a long-term bond. Forecasting excess bond returns is crucial for optimizing strategic asset allocation decisions,
 managing risks associated with bond holdings, developing fixed income trading strategies, and conducting relative value analysis.&lt;/p&gt;
 </description>
@@ -60,9 +60,9 @@ managing risks associated with bond holdings, developing fixed income trading st
     
     <item>
       <title>Home Equity Loan Default Risk Calculator</title>
-      <link>https://lchipham.netlify.app/project/project-2/</link>
+      <link>https://lndzphm.netlify.app/project/project-2/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/project/project-2/</guid>
+      <guid>https://lndzphm.netlify.app/project/project-2/</guid>
       <description>&lt;p&gt;This web app functions like a calculator, taking new customers&amp;rsquo; info (variables/parameters of final Machine Learning model: DEBTINC, DELINQ, DEROG, CLAGE, LOAN, NINQ, CLNO) as input and outputting said customer&amp;rsquo;s mortgage default probability.&lt;/p&gt;
 &lt;p&gt;Based on the quantile in which this probability is, as well as the (adjustable) loan acceptance rate of the bank, the app  outputs bank&amp;rsquo;s decision on whether to lend to this new customer. If the customer&amp;rsquo;s default probability falls in a higher percentile than the acceptance rate, they are not qualified for loan.&lt;/p&gt;
 </description>
@@ -70,27 +70,27 @@ managing risks associated with bond holdings, developing fixed income trading st
     
     <item>
       <title>Inflation Tweets &amp; Market Sentiments</title>
-      <link>https://lchipham.netlify.app/project/project-4/</link>
+      <link>https://lndzphm.netlify.app/project/project-4/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/project/project-4/</guid>
+      <guid>https://lndzphm.netlify.app/project/project-4/</guid>
       <description>&lt;p&gt;Through exploration of Tweets from the general public and prominent news articles (WSJ, Financial Times, NY Times. etc), this project aims to gain insights on market sentiments during the current high inflationary period in the US. &amp;ldquo;Sentiments&amp;rdquo; are shaped and defined from discovery of term/word frequency, most mentioned keywords/hashtags, word networks, sentiment analysis and topic modeling. Correlations between US treasury yields data and usage frequency of keywords like &amp;ldquo;inflation&amp;rdquo; and &amp;ldquo;recession&amp;rdquo; are also found and validated.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stream chart - Continued UE Claims 20-21</title>
-      <link>https://lchipham.netlify.app/project/project-3/</link>
+      <link>https://lndzphm.netlify.app/project/project-3/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/project/project-3/</guid>
+      <guid>https://lndzphm.netlify.app/project/project-3/</guid>
       <description>&lt;p&gt;An interactive web dashboard to assess labor market strength post-pandemic, visualizing trends &amp;amp; components of US unemployment claims since the start of COVID pandemic under various categories (industry, education, wages).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://lchipham.netlify.app/post/getting-started/</link>
+      <link>https://lndzphm.netlify.app/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/post/getting-started/</guid>
+      <guid>https://lndzphm.netlify.app/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -167,9 +167,9 @@ managing risks associated with bond holdings, developing fixed income trading st
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://lchipham.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://lndzphm.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://lchipham.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://lndzphm.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -206,7 +206,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://lchipham.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://lndzphm.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -217,9 +217,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Slides</title>
-      <link>https://lchipham.netlify.app/slides/example/</link>
+      <link>https://lndzphm.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/slides/example/</guid>
+      <guid>https://lndzphm.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -342,9 +342,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://lchipham.netlify.app/admin/config.yml</link>
+      <link>https://lndzphm.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lchipham.netlify.app/admin/config.yml</guid>
+      <guid>https://lndzphm.netlify.app/admin/config.yml</guid>
       <description></description>
     </item>
     

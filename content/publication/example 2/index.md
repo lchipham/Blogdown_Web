@@ -38,4 +38,4 @@ url_source: ""
 url_video: ""
 ---
 
-
+The impact of firm size on wages sheds light on workers' earning potential, labor market competition, as well as the dynamics of economic inequality and income distribution across industries within the US economy.
