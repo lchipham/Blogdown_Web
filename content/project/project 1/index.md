@@ -6,7 +6,7 @@ image:
   focal_point: Smart
   
 links:
-- icon: r-project
+- icon: python
   icon_pack: fab
   name: App Demo
   url: https://rpubs.com/lchi_pham/939546

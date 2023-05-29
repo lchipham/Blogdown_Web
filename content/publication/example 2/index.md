@@ -17,8 +17,8 @@ image:
   preview_only: false
 
 links:
-- icon: r-project
-  icon_pack: fab
+- icon: file-pdf
+  icon_pack: fas
   name: PDF
   url: https://drive.google.com/file/d/18jO1Ine4tf0Dacw8IFeBL4s-fiQ6p_jz/view?usp=sharing
 
